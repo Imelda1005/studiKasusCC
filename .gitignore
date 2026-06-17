@@ -1,0 +1,19 @@
+# Config files dengan password
+config/database.php
+
+# Upload files
+uploads/*
+!uploads/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
